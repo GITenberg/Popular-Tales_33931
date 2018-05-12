@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: Lang's introduction is in English; the tales are in French.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33931#Popular-Tales
 gutenberg_bookshelf: FR Contes
 gutenberg_issued: '2010-10-13'
 gutenberg_type: Text
