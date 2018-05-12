@@ -1,0 +1,46 @@
+_repo: Popular-Tales_33931
+_version: 0.1.0
+alternative_title: Contes des fées
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Lang's introduction is in English; the tales are in French.
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2010-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33931'
+language:
+- en
+- fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- France'
+- !lcc 'PQ'
+- !lcc 'PZ'
+tableOfContents: Introduction / [Andrew Lang] -- La belle au bois dormant -- Le Petit
+  Chaperon Rouge -- Le Barbe Bleuë -- Le maistre chat, ou, Le chat botté -- Les fées
+  -- Cendrillon, ou, La petite pantoufle de verre -- Riquet à la houppe -- Le petit
+  pouçet.
+title: Popular Tales
+url: http://www.gutenberg.org/ebooks/33931
